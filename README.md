@@ -23,36 +23,10 @@ The **Online Fire NOC Issuance System** is a web-based platform that allows citi
 ## 🔧 Installation & Setup
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/your-repo/fire-noc-system.git
+git clone https://github.com/your-repo/NOC-Issuance-System.git
 cd fire-noc-system
 ```
-
-### **2. Backend Setup**
-```bash
-cd backend
+### **2. SetUp**
+```
 npm install
 ```
-
-- Create a `.env` file and add MySQL credentials:
-```env
-DB_HOST=localhost
-DB_USER=root
-DB_PASSWORD=yourpassword
-DB_NAME=fire_noc_db
-```
-
-- Run the backend server:
-```bash
-node server.js
-```
-
-### **3. Frontend Setup**
-```bash
-cd frontend
-npm install
-npm start
-```
-
-## 📜 License
-This project is licensed under the MIT License.
-
