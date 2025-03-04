@@ -27,6 +27,16 @@ const LanguageSelection: React.FC = () => {
       </button>
       <div className="bg-white p-8 rounded-lg shadow-lg max-w-md w-full">
         <div className="flex justify-center mb-6">
+          <Flame size={48} className="text-red-500" />
+        </div>
+        
+        <h1 className="text-2xl font-bold text-center mb-8">{t('language.title')}</h1>
+        
+        <div className="space-y-4">
+          <button
+            onClick={() => handleLanguageChange('en')}
+            className="w-full py-3 px-4 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition duration-200 flex items-center justify-center"
+          >
             <span className="text-lg font-medium">{t('language.english')}</span>
           </button>
           
