@@ -23,7 +23,7 @@ The **Online Fire NOC Issuance System** is a web-based platform that allows citi
 ## 🔧 Installation & Setup
 ### **1. Clone the repository**
 ```bash
-git clone https://github.com/your-repo/NOC-Issuance-System.git
+git clone https://github.com/harshil-prajapati/NOC-Issuance-System.git
 cd fire-noc-system
 ```
 ### **2. SetUp**
