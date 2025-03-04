@@ -1,0 +1,101 @@
+{
+  "language": {
+    "title": "Select Your Language",
+    "english": "English",
+    "gujarati": "Gujarati"
+  },
+  "common": {
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "download": "Download",
+    "search": "Search",
+    "filter": "Filter",
+    "status": "Status",
+    "actions": "Actions",
+    "loading": "Loading...",
+    "noData": "No data available",
+    "welcome": "Welcome to Fire NOC Issuance System"
+  },
+  "dashboard": {
+    "title": "Fire NOC Issuance System",
+    "subtitle": "Apply for Fire NOC Certificate",
+    "trackApplication": "Track Your Application",
+    "requiredForms": "Required Forms",
+    "onlineForm": "Apply Online",
+    "downloadForms": "Download Forms"
+  },
+  "forms": {
+    "title": "Application Forms",
+    "subtitle": "Please fill out the following forms",
+    "form1": "Form 1: Building Fire Safety Certificate",
+    "form2": "Form 2: Fire Safety Equipment Verification",
+    "form3": "Form 3: Emergency Evacuation Plan",
+    "form4": "Form 4: Fire Safety Compliance Declaration",
+    "basicInfo": "Basic Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "mobileNumber": "Mobile Number",
+    "email": "Email Address",
+    "address": "Address",
+    "city": "City",
+    "state": "State",
+    "pincode": "Pincode",
+    "buildingType": "Building Type",
+    "buildingHeight": "Building Height (in meters)",
+    "buildingArea": "Building Area (in sq. meters)",
+    "occupancyType": "Occupancy Type",
+    "declaration": "I hereby declare that the information provided is true and correct to the best of my knowledge."
+  },
+  "status": {
+    "title": "Application Status",
+    "enterTrackingCode": "Enter your tracking code",
+    "checkStatus": "Check Status",
+    "applicationId": "Application ID",
+    "submittedOn": "Submitted On",
+    "currentStatus": "Current Status",
+    "lastUpdated": "Last Updated",
+    "inProcess": "In Process",
+    "rejected": "Rejected",
+    "accepted": "Accepted",
+    "pending": "Pending"
+  },
+  "admin": {
+    "login": {
+      "title": "Admin Login",
+      "username": "Username",
+      "password": "Password",
+      "loginButton": "Login"
+    },
+    "dashboard": {
+      "title": "Admin Dashboard",
+      "totalApplications": "Total Applications",
+      "pendingApplications": "Pending Applications",
+      "approvedApplications": "Approved Applications",
+      "rejectedApplications": "Rejected Applications",
+      "recentApplications": "Recent Applications"
+    },
+    "applications": {
+      "title": "Application Management",
+      "viewAll": "View All Applications",
+      "assignedToMe": "Assigned To Me",
+      "unassigned": "Unassigned Applications",
+      "assignTo": "Assign To",
+      "updateStatus": "Update Status",
+      "addComment": "Add Comment"
+    },
+    "officers": {
+      "title": "Officer Management",
+      "addOfficer": "Add New Officer",
+      "officerName": "Officer Name",
+      "officerEmail": "Email",
+      "officerRole": "Role",
+      "assignedApplications": "Assigned Applications"
+    }
+  }
+}

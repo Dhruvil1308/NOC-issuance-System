@@ -1,0 +1,101 @@
+{
+  "language": {
+    "title": "તમારી ભાષા પસંદ કરો",
+    "english": "અંગ્રેજી",
+    "gujarati": "ગુજરાતી"
+  },
+  "common": {
+    "submit": "સબમિટ કરો",
+    "cancel": "રદ કરો",
+    "back": "પાછા જાઓ",
+    "next": "આગળ",
+    "save": "સાચવો",
+    "delete": "કાઢી નાખો",
+    "edit": "સંપાદિત કરો",
+    "view": "જુઓ",
+    "download": "ડાઉનલોડ કરો",
+    "search": "શોધો",
+    "filter": "ફિલ્ટર કરો",
+    "status": "સ્થિતિ",
+    "actions": "ક્રિયાઓ",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "noData": "કોઈ ડેટા ઉપલબ્ધ નથી",
+    "welcome": "ફાયર NOC ઇશ્યુઅન્સ સિસ્ટમમાં આપનું સ્વાગત છે"
+  },
+  "dashboard": {
+    "title": "ફાયર NOC ઇશ્યુઅન્સ સિસ્ટમ",
+    "subtitle": "ફાયર NOC સર્ટિફિકેટ માટે અરજી કરો",
+    "trackApplication": "તમારી અરજી ટ્રૅક કરો",
+    "requiredForms": "જરૂરી ફોર્મ્સ",
+    "onlineForm": "ઓનલાઇન અરજી કરો",
+    "downloadForms": "ફોર્મ્સ ડાઉનલોડ કરો"
+  },
+  "forms": {
+    "title": "અરજી ફોર્મ્સ",
+    "subtitle": "કૃપા કરીને નીચેના ફોર્મ્સ ભરો",
+    "form1": "ફોર્મ 1: બિલ્ડિંગ ફાયર સેફ્ટી સર્ટિફિકેટ",
+    "form2": "ફોર્મ 2: ફાયર સેફ્ટી ઇક્વિપમેન્ટ વેરિફિકેશન",
+    "form3": "ફોર્મ 3: ઇમરજન્સી ઇવેક્યુએશન પ્લાન",
+    "form4": "ફોર્મ 4: ફાયર સેફ્ટી કમ્પ્લાયન્સ ડેક્લેરેશન",
+    "basicInfo": "મૂળભૂત માહિતી",
+    "firstName": "પ્રથમ નામ",
+    "lastName": "અટક",
+    "mobileNumber": "મોબાઇલ નંબર",
+    "email": "ઇમેઇલ એડ્રેસ",
+    "address": "સરનામું",
+    "city": "શહેર",
+    "state": "રાજ્ય",
+    "pincode": "પિનકોડ",
+    "buildingType": "બિલ્ડિંગનો પ્રકાર",
+    "buildingHeight": "બિલ્ડિંગની ઊંચાઈ (મીટરમાં)",
+    "buildingArea": "બિલ્ડિંગનું ક્ષેત્રફળ (ચોરસ મીટરમાં)",
+    "occupancyType": "ઓક્યુપન્સી પ્રકાર",
+    "declaration": "હું આથી જાહેર કરું છું કે આપેલી માહિતી મારી જાણ મુજબ સાચી અને સાચી છે."
+  },
+  "status": {
+    "title": "અરજી સ્થિતિ",
+    "enterTrackingCode": "તમારો ટ્રેકિંગ કોડ દાખલ કરો",
+    "checkStatus": "સ્થિતિ તપાસો",
+    "applicationId": "અરજી આઈડી",
+    "submittedOn": "સબમિટ કર્યાની તારીખ",
+    "currentStatus": "વર્તમાન સ્થિતિ",
+    "lastUpdated": "છેલ્લે અપડેટ કર્યું",
+    "inProcess": "પ્રક્રિયામાં",
+    "rejected": "નકારવામાં આવ્યું",
+    "accepted": "સ્વીકારવામાં આવ્યું",
+    "pending": "બાકી"
+  },
+  "admin": {
+    "login": {
+      "title": "એડમિન લોગિન",
+      "username": "યુઝરનેમ",
+      "password": "પાસવર્ડ",
+      "loginButton": "લોગિન"
+    },
+    "dashboard": {
+      "title": "એડમિન ડેશબોર્ડ",
+      "totalApplications": "કુલ અરજીઓ",
+      "pendingApplications": "બાકી અરજીઓ",
+      "approvedApplications": "મંજૂર અરજીઓ",
+      "rejectedApplications": "નકારેલી અરજીઓ",
+      "recentApplications": "તાજેતરની અરજીઓ"
+    },
+    "applications": {
+      "title": "અરજી મેનેજમેન્ટ",
+      "viewAll": "બધી અરજીઓ જુઓ",
+      "assignedToMe": "મને સોંપાયેલ",
+      "unassigned": "અસાઇન ન કરેલી અરજીઓ",
+      "assignTo": "સોંપો",
+      "updateStatus": "સ્થિતિ અપડેટ કરો",
+      "addComment": "કોમેન્ટ ઉમેરો"
+    },
+    "officers": {
+      "title": "ઓફિસર મેનેજમેન્ટ",
+      "addOfficer": "નવા ઓફિસર ઉમેરો",
+      "officerName": "ઓફિસરનું નામ",
+      "officerEmail": "ઇમેઇલ",
+      "officerRole": "ભૂમિકા",
+      "assignedApplications": "સોંપાયેલી અરજીઓ"
+    }
+  }
+}
