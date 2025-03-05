@@ -1,5 +1,7 @@
 # 🚀 NOC-Issuance-System
 
+The **NOC-Issuance-System** is an online platform designed to streamline the process of issuing Fire NOCs for Bhavnagar Municipal Corporation. It eliminates manual paperwork by allowing citizens to apply, track, and receive NOCs digitally. Applicants can scan a QR code to access and download necessary forms instantly. The system improves efficiency, reduces processing time, and ensures secure document storage. Built using **React.js, Tailwind CSS, Node.js, and MySQL**, it offers real-time tracking and automated approval workflows. This project is part of the **Smart Gujarat Hackathon**, contributing to **Smart Cities & Urban Governance** by enhancing public service accessibility and transparency. 🚀
+
 ## 🏛 Department
 **Bhavnagar Municipal Corporation**
 
